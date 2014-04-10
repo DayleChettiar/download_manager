@@ -1,0 +1,1 @@
+This is a download manager. It downloads resources from a particular url. If you had multiple resources to download at the same time, it allows you to do so. It also shows you the progress for each dowloading resource. 
